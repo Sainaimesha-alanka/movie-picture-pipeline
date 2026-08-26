@@ -1,4 +1,5 @@
 name: Frontend Continuous Deployment
+# Rebuild frontend after backend LoadBalancer URL update
 
 on:
   push:
